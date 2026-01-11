@@ -1,6 +1,8 @@
 # 💫 About Me:
-🔭 Pursuing my Diploma in Full Stack Software Development, delving into both front-end and back-end technologies.<br>🌱 Mastering HTML, CSS, Python and JavaScript while exploring frameworks like React and Django.<br>👯 Open to collaborating on innovative web development projects that push boundaries and challenge my abilities.<br>💬 Feel free to ask me about my recent coding endeavors, software development methodologies, or even my favorite programming languages.<br>⚡ Fun fact: I have a fervent passion for marketing and thrive on crafting innovative strategies to captivate audiences and drive engagement.
+🔭 Diploma in Full Stack Software Development, delving into both front-end and back-end technologies.<br>🌱 Mastering HTML, CSS, Python, JavaScript, C#, Rust, and all the other fun stuff.<br>👯 Open to collaborating on innovative web development projects that push boundaries and challenge my abilities.<br>💬 Feel free to ask me about my recent coding endeavors, software development methodologies, or even my favorite programming languages.<br>⚡ Fun fact: I have a fervent passion for marketing and thrive on crafting innovative strategies to captivate audiences and drive engagement.
 
+## 🏢 My Company:
+[Suchflow SEO Agency](https://suchflow.de/) 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pascal-harting/) 
